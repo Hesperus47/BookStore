@@ -1,0 +1,2 @@
+# BookStore
+运用DAO模式设计一个JavaFX可视化图形界面显示本地数据库中books的信息
